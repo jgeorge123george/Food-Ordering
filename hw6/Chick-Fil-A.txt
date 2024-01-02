@@ -1,0 +1,12 @@
+Name: Waffle Fries
+Description: french fries shaped like waffles
+Price: $5
+
+Name: Grilled Nuggets
+Description: 8 piece grilled nuggets
+Price: $10
+
+Name: Spicy Chicken Sandwich
+Description: chicken sandwich with pickles
+Price: $10
+

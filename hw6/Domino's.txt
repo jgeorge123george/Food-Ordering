@@ -1,0 +1,12 @@
+Name: Premium Pizza
+Description: cheese pizza with vegetable toppings, pepperoni, and garlic sauce
+Price: $10
+
+Name: Deluxe Pizza
+Description: cheese pizza with vegetable toppings and garlic sauce
+Price: $15
+
+Name: Basic Pizza
+Description: cheese pizza with garlic sauce
+Price: $10
+
